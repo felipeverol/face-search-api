@@ -1,4 +1,4 @@
-# Desafio Técnico – Visão Computacional (Zions)
+# Face Search API
 
 Sistema de busca de rostos em uma base de imagens cadastradas, desenvolvido com FastAPI, FaceNet e ChromaDB.
 O projeto permite enviar uma imagem, detectar rostos, gerar embeddings faciais e comparar com uma base existente, retornando os rostos mais similares.
