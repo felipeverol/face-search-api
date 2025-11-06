@@ -1,0 +1,8 @@
+*.png
+*.jpg
+*.jpeg
+!repo/frontend.png
+
+.DS_Store
+__pycache__
+venv

@@ -1,0 +1,11 @@
+fastapi
+facenet-pytorch
+uvicorn
+pillow
+numpy
+torch
+python-multipart
+chromadb
+tqdm
+uuid
+typing
